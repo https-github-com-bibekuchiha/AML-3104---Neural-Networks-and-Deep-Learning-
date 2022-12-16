@@ -8,6 +8,10 @@ The Challenge is to build a Deep learning model and code to count the number of 
 
 The Data is split into Training and Testing Data. For Training Data we have provided enough clips to get a decent model but you can also find, parse, augment and use additional audio clips to improve your model performance.
 
+# Dataset link
+
+https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing
+
 # Training Sets
 - Parsed_Capuchinbird_Clips - Folder of audio clips which has Capuchin birds audio clip
 - Parsed_Not_Capuchinbird_Clips - Folder of audio clips which does not have Capuchin birds audio clip
